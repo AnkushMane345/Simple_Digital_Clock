@@ -108,8 +108,6 @@ Simply open **index.html** in your browser.
 ---
 
 
----
-
 ## 👨‍💻 Author
 
 Developed by **Ankush Mane**
