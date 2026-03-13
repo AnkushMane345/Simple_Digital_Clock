@@ -90,9 +90,9 @@ Simply open **index.html** in your browser.
 
 ## 📸 Screenshot
 <img width="1914" height="868" alt="Screenshot 2026-03-12 134954" src="https://github.com/user-attachments/assets/72e1c512-9e01-4935-91bb-f18dca9c4fd9" />
-
+---
 <img width="1919" height="866" alt="Screenshot 2026-03-12 135006" src="https://github.com/user-attachments/assets/f6ac5553-d01d-4cdb-855a-98cd37ba8dec" />
-
+---
 <img width="1919" height="868" alt="Screenshot 2026-03-12 135016" src="https://github.com/user-attachments/assets/fe5f0595-1012-4d2e-8b86-abd23172f9c3" />
 
 
